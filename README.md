@@ -14,12 +14,14 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-P. Duan, X. Kang, and P. Ghamisi, "Hyperspectral Remote Sensing Benchmark Database for Oil Spill Detection with an Isolation Forest-Guided Unsupervised Detector," in arXiv, 2020, doi: 10.48550/ARXIV.2209.14971.
+P. Duan, X. Kang, and P. Ghamisi, "Hyperspectral Remote Sensing Benchmark Database for Oil Spill Detection with an Isolation Forest-Guided Unsupervised Detector," in arXiv, 2022, doi: 10.48550/ARXIV.2209.14971.
 
     @article{HOSD,
       title     = {Hyperspectral Remote Sensing Benchmark Database for Oil Spill Detection with an Isolation Forest-Guided Unsupervised Detector},
       author    = {Duan, Puhong and Kang, Xudong and Ghamisi, Pedram},
       journal   = {arXiv}, 
+      doi       = {10.48550/ARXIV.2209.14971},
+      url       = {https://arxiv.org/abs/2209.14971},
       year      = {2022},
       publisher = {arXiv},
       
